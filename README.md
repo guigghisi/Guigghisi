@@ -3,17 +3,22 @@
 👋 Olá! Sou Guilherme Geraldi Ghisi, um desenvolvedor apaixonado por tecnologia. Atualmente cursando Análise e Desenvolvimento de Sistemas no IFSC-Tubarão. Tenho experiência em projetos Front-End e Back-End, com habilidades em diversas linguagens e frameworks, como Java, JavaScript, Python, React, Node.js e Spring. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Você pode me encontrar em Tubarão, Santa Catarina. Não hesite em entrar em contato para colaborações ou apenas para bater um papo sobre desenvolvimento de software! 🚀🌟
 
 ## Habilidades
-- Java
-- JavaScript
-- Python
-- React
-- Node.js
-- Spring
-- SQL
-- Redes de Computadores
-- DevOps
-- Virtualização
-- Linux
+
+<div style="display: flex; flex-direction: row; align-items: center;">
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0175C2?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Virtualização](https://img.shields.io/badge/Virtualiza%C3%A7%C3%A3o-2C2D72?style=for-the-badge&logo=vmware&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
 
 ## Projetos
 

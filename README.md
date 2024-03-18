@@ -1,6 +1,6 @@
 # Guilherme Geraldi Ghisi
 
-👋 Olá! Sou Guilherme Geraldi Ghisi, um desenvolvedor apaixonado por tecnologia. Atualmente cursando Análise e Desenvolvimento de Sistemas no IFSC-Tubarão. Tenho experiência em projetos Front-End e Back-End, com habilidades em diversas linguagens e frameworks, como Java, JavaScript, Python, React, Node.js e Spring. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Você pode me encontrar em Tubarão, Santa Catarina. Não hesite em entrar em contato para colaborações ou apenas para bater um papo sobre desenvolvimento de software! 🚀🌟
+👋 Olá! Sou Guilherme Geraldi Ghisi, um desenvolvedor apaixonado por tecnologia. Atualmente cursando Análise e Desenvolvimento de Sistemas no IFSC-Tubarão. Tenho experiência em projetos Front-End e Back-End, com habilidades em diversas linguagens e frameworks, como Java, JavaScript, Python, React, Node.js e Spring. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. 🚀🌟
 
 ## Habilidades
 

@@ -20,8 +20,10 @@
 ### Projetos do Curso DEVinhouse
 - [Pharmacy Management](https://github.com/guigghisi/PharmacyManagement): Um sistema de gerenciamento de farmácia desenvolvido em Java.
 - [Pharmacy Management - Frontend](https://github.com/guigghisi/PharmacyManagement-Front): O frontend correspondente ao sistema de gerenciamento de farmácia desenvolvido em React.
+- [Card Dicas](https://github.com/guigghisi/Card_Dicas): Projeto para gerenciar card de dicas.
 
 ### Projetos pessoais
+- [Contador](https://github.com/guigghisi/contador): Projeto teste para um site hospedao via apache.
 
 ## Contato
 📧 Guilhermeghisi14@gmail.com  

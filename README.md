@@ -22,7 +22,8 @@
 - [Pharmacy Management - Frontend](https://github.com/guigghisi/PharmacyManagement-Front): O frontend correspondente ao sistema de gerenciamento de farmácia desenvolvido em React.
 - [Card Dicas](https://github.com/guigghisi/Card_Dicas): Projeto para gerenciar card de dicas.
 
-### Projetos pessoais
+### Outros Projetos
+- [Cadastro de Veículos API](https://github.com/guigghisi/Cadastro_Veiculos-API): Uma API para cadastro de veículos desenvolvida em Node.js, utilizando Express e MongoDB.
 - [Contador](https://github.com/guigghisi/contador): Projeto teste para um site hospedao via apache.
 
 ## Contato

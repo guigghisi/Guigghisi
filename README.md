@@ -1,26 +1,29 @@
 # Guilherme Geraldi Ghisi
 
-## Sobre Mim
-Olá! Eu sou Guilherme Geraldi Ghisi, um desenvolvedor apaixonado por tecnologia, atualmente cursando o Ensino Superior de Análise e Desenvolvimento de Sistemas. Tenho experiência tanto em projetos Front-End quanto Back-End, com habilidades sólidas em várias linguagens e frameworks. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+👋 Olá! Sou Guilherme Geraldi Ghisi, um desenvolvedor apaixonado por tecnologia. Atualmente cursando Análise e Desenvolvimento de Sistemas no IFSC-Tubarão. Tenho experiência em projetos Front-End e Back-End, com habilidades em diversas linguagens e frameworks, como Java, JavaScript, Python, React, Node.js e Spring. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Você pode me encontrar em Tubarão, Santa Catarina. Não hesite em entrar em contato para colaborações ou apenas para bater um papo sobre desenvolvimento de software! 🚀🌟
 
-## Formação
-- Ensino Superior de Análise e Desenvolvimento de Sistemas (6° fase) - IFSC-Tubarão
-- Ensino Médio - Serviço Nacional de Aprendizagem Industrial SENAI/SC
-- Técnico em Automação Industrial - SENAI/SC
-
-## Habilidades Técnicas
-- **Linguagens:** Java, JavaScript, Python, PHP
-- **Frameworks:** React, Node.js, Spring
-- **Banco de Dados:** SQL
-- **Conhecimento em:** Redes de Computadores, DevOps, Virtualização
-- **Sistemas Operacionais:** Linux
+## Habilidades
+- Java
+- JavaScript
+- Python
+- React
+- Node.js
+- Spring
+- SQL
+- Redes de Computadores
+- DevOps
+- Virtualização
+- Linux
 
 ## Projetos
-- Desenvolvimento de Projetos Front-End e Back-End para o curso da DEVinhouse.
-- Desenvolvimento de projetos pessoais.
+
+### Projetos do Curso DEVinhouse
+- [Pharmacy Management](https://github.com/guigghisi/PharmacyManagement): Um sistema de gerenciamento de farmácia desenvolvido em Java.
+- [Pharmacy Management - Frontend](https://github.com/guigghisi/PharmacyManagement-Front): O frontend correspondente ao sistema de gerenciamento de farmácia desenvolvido em React.
+
+### Projetos pessoais
 
 ## Contato
-- **Cidade:** Tubarão, Santa Catarina
-- **Contato:** Guilhermeghisi14@gmail.com
+📧 Guilhermeghisi14@gmail.com  
 
-Sinta-se à vontade para entrar em contato comigo para oportunidades de colaboração ou para saber mais sobre meu trabalho e experiência!
+Não deixe de dar uma olhada nos meus projetos e contribuições! Estou sempre interessado em aprender e colaborar com a comunidade de desenvolvedores. 😊🌱

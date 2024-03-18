@@ -21,6 +21,6 @@ Olá! Eu sou Guilherme Geraldi Ghisi, um desenvolvedor apaixonado por tecnologia
 
 ## Contato
 - **Cidade:** Tubarão, Santa Catarina
-- **Contatos:** (48) 99801-7717 / Guilhermeghisi14@gmail.com
+- **Contato:** Guilhermeghisi14@gmail.com
 
 Sinta-se à vontade para entrar em contato comigo para oportunidades de colaboração ou para saber mais sobre meu trabalho e experiência!

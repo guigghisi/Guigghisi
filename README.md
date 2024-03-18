@@ -34,4 +34,4 @@
 ## Contato
 📧 Guilhermeghisi14@gmail.com  
 
-Não deixe de dar uma olhada nos meus projetos e contribuições! Estou sempre interessado em aprender e colaborar com a comunidade de desenvolvedores. 😊🌱
+Não deixe de dar uma olhada nos meus projetos! 😊🌱
